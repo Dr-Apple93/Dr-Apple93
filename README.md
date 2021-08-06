@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Dr-Apple93
+- 👀 I’m interested in Sports, Science
+- 🌱 I’m currently learning Kibana, Python, Data mining
